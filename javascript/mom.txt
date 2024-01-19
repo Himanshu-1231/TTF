@@ -1,0 +1,19 @@
+javascript syllabus
+1- basics of javascript
+1.0  
+    -INPUT
+    -OUTPUT
+    -Conditionals - if else elseif switch
+    -Repeat -loops(for while do while for of for in for each)
+    -functions
+2- advance javascript
+    -HOF
+    -CALLBACKS
+    -CALLBACK HELL
+    -INVERSION OF CONTROL
+    -PROMISES
+    -PROMISES HELL
+    -CLASS AND OBJECT
+    -OOPS(THIS NEW CONSTRUCTOR)
+    -PROTOTYPES
+    -
