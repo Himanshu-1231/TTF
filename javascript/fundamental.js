@@ -144,24 +144,31 @@
 // ------------------------------------------------------
 
 
-// let num = 7;
-// let count = 0;
-// for (let div=2;div<=num;div++)
-// {
-//     if (num%div==0)
-//     {
-//         count++;
+// to check whether the no. is prime or not
 
-//     }
-// }
-// if(count>2)
-// {
-//     console.log("not prime ",num);
-// }
-// else 
-// {
-//     console.log("prime ",num)
-// }
+let num = 7;
+let count = 0;
+for (let div=2;div<=num;div++)
+{
+    if (num%div==0)
+    {
+        count++;
+
+    }
+}
+if(count>2)
+{
+    console.log("not prime ",num);
+}
+else 
+{
+    console.log("prime ",num)
+}
+
+
+
+// to check which nos. are prime or not in between 10 to 100
+
 
 
 let ll=10;
